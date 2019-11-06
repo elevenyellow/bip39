@@ -1,5 +1,5 @@
 {
-  "name": "bip39",
+  "name": "@elevenyellow.com/bip39",
   "version": "3.0.2",
   "description": "Bitcoin BIP39: Mnemonic code for generating deterministic keys",
   "main": "src/index.js",
